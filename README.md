@@ -6,6 +6,8 @@ Aplicações:
 - Leitura de dados e organização de séries teemporais de ativos financeiros.
 - Análise Exploratória de Dados.
 - Análise de Portfólio.
+- Fronteira Eficiente de Markowitz.
+- Portfólios de mínimo risco com Value at Risk
 - Indicadores de Análise Técnica.
 - Sinais de tendências, compra e venda.
 
